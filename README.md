@@ -51,4 +51,4 @@ Then, SavedModel can be used for inference with [Tensorflow Serving](https://www
 
 # History
 
-This code was initially published while Debug[link] was a Verily project.  Debug is no longer part of Verily, and questions regarding this code may be sent to press@debugproject.com.
+This code was initially published while [Debug](https://debug.com/) was a [Verily](https://verily.com/) project.  Debug is no longer part of Verily, and questions regarding this code may be sent to press@debugproject.com.
