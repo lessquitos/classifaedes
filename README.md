@@ -48,3 +48,7 @@ bazel run export -- --model_dir=$model_dir --logtostderr
 ```
 
 Then, SavedModel can be used for inference with [Tensorflow Serving](https://www.tensorflow.org/tfx/guide/serving) or the [GCP ML Engine](https://cloud.google.com/ml-engine/docs/deploying-models).
+
+# History
+
+This code was initially published while [Debug](https://debug.com/) was a [Verily](https://verily.com/) project.  Debug is no longer part of Verily, and questions regarding this code may be sent to press@debugproject.com.
